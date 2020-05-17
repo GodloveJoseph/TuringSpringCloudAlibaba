@@ -1,0 +1,8 @@
+com\tuling\entity\ProductInfo.class
+com\tuling\vo\OrderVo.class
+com\tuling\vo\SystemErrorType.class
+com\tuling\vo\ErrorType.class
+com\tuling\vo\Result.class
+com\tuling\entity\OrderInfo.class
+com\tuling\entity\PayInfo.class
+com\tuling\vo\OrderAndPayVo.class
