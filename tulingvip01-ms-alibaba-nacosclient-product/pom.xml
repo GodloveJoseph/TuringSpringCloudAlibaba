@@ -8,9 +8,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.tuling</groupId>
-	<artifactId>tulingvip01-ms-alibaba-nocasclient-product</artifactId>
+	<artifactId>tulingvip01-ms-alibaba-nocosclient-product</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tulingvip01-ms-alibaba-nocasclient-product</name>
+	<name>tulingvip01-ms-alibaba-nocosclient-product</name>
 	<description>基于rest的order服务</description>
 
 	<properties>
